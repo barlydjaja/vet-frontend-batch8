@@ -1,0 +1,30 @@
+.home-rectangle {
+  height: 35vh;
+  width: 100vw;
+  /* Rectangle 42 */
+  /* Rectangle 42 */
+
+  /* position: absolute; */
+  /* width: 1440px;
+  height: 177px; */
+  left: 0px;
+  top: 64px;
+
+  /* Primary Color Vet -2 */
+  background: #1a3150;
+}
+
+.home-dog {
+  position: absolute;
+  margin-top: 25vh;
+  right: 15vw;
+  z-index: 0;
+}
+
+.home-elipse img {
+  width: 100vw;
+}
+
+.body {
+  height: 70vh;
+}
